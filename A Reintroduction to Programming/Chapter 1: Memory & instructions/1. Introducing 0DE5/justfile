@@ -1,2 +1,5 @@
 compile:
     gcc -O0 -g -o out/program program.c
+
+compile2:
+    gcc -O0 -g -o out/program2 program2.c
